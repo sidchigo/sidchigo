@@ -10,6 +10,7 @@
 
 - 🎨 [**Colorchef**](https://colorchef.vercel.app)  
   A smart color utility for devs & designers. Combines palette generators, contrast checkers, and accessibility tools into one clean interface.
+  
   🔗 [Colorchef Repo](https://github.com/sidchigo/colorchef-next)
   
   ![colorchef vercel app_colors](https://github.com/user-attachments/assets/d12105b3-5bf6-424b-83f6-4658cf2143c0)
@@ -17,6 +18,7 @@
 
 - 📄 [**ProposalGen**](https://proposalgen.vercel.app)  
   Create beautiful client proposals with editable templates and PDF export. Built with React, @react-pdf/renderer and custom UI.
+  
   🔗 [ProposalGen Repo](https://github.com/sidchigo/ProposalGen)
   
   ![proposalgen](https://github.com/user-attachments/assets/4af06720-af0d-419c-ab79-ee5557ed022c)
