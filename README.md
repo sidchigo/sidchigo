@@ -2,7 +2,7 @@
 
 **Senior Software Engineer** - Real-time Systems & Frontend Architecture · 5.5+ years of experience
 
-I build fast, reliable, real-time web applications — from WebSocket-driven UIs to scalable backend integrations. Open to select new opportunities if the right one comes along.
+I build fast, reliable, real-time web applications - from WebSocket-driven UIs to scalable backend integrations. Open to select new opportunities if the right one comes along.
 
 📫 [LinkedIn](https://www.linkedin.com/in/siddheshnaik26/) · [Email](mailto:sid.naik26@gmail.com)
 
