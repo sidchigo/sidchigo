@@ -1,52 +1,49 @@
-# 👋 Hey, I'm Siddhesh Naik
+# Siddhesh Naik
 
-🎯 **Frontend Engineer** | **React & Next.js Specialist** | 4.5+ years of experience  
-🌍 Open to remote opportunities – freelance, contract, or full-time  
-🛠️ I love building clean, fast, and user-focused web apps.
+**Senior Software Engineer** — Real-time Systems & Frontend Architecture · 5.5+ years of experience
+
+I build fast, reliable, real-time web applications - from WebSocket-driven UIs to scalable backend integrations. Open to select new opportunities if the right one comes along.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddheshnaik26/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sid.naik26@gmail.com)
 
 ---
 
 ### 🚀 Projects I’ve Built
 
 - 🎨 [**Colorchef**](https://colorchef.vercel.app)  
-  A smart color utility for devs & designers. Combines palette generators, contrast checkers, and accessibility tools into one clean interface.
+  A modular color and UI utility tool for indie developers and designers — palettes, shadows, dark themes, buttons, and a Cinema module that extracts color palettes directly from movie posters using a custom clustering pipeline. Split across three repos for independent, decoupled deploys.
   
-  🔗 [Colorchef Repo](https://github.com/sidchigo/colorchef-next)
+  🔗 [Frontend](https://github.com/sidchigo/colorchef-next) · [Backend](https://github.com/sidchigo/colorchef-server) · [Data](https://github.com/sidchigo/colorchef-data)
   
   ![colorchef vercel app_colors](https://github.com/user-attachments/assets/d12105b3-5bf6-424b-83f6-4658cf2143c0)
 
+- 💬 [**XrossTalk**](https://github.com/sidchigo/xrosstalk)  
+  Real-time feature flag control and user presence dashboard — FastAPI, Express, RabbitMQ, Redis, and WebSockets, containerized with Docker. A fullstack, infra-focused project exploring cross-service communication and live UI updates.
 
 - 📄 [**ProposalGen**](https://proposalgen.vercel.app)  
-  Create beautiful client proposals with editable templates and PDF export. Built with React, @react-pdf/renderer and custom UI.
-  
-  🔗 [ProposalGen Repo](https://github.com/sidchigo/ProposalGen)
+  A themeable proposal generator for freelancers and agencies — instant, editable PDF export. Built with React and @react-pdf/renderer.
+
+  🔗 [Repo](https://github.com/sidchigo/ProposalGen)
   
   ![proposalgen](https://github.com/user-attachments/assets/4af06720-af0d-419c-ab79-ee5557ed022c)
-
-
-- 💬 [**XrossTalk**](https://github.com/sidchigo/xrosstalk)  
-  A backend-heavy architecture project using RabbitMQ + WebSockets + Redis. Built to explore scalable real-time communication between services.
-
 ---
 
 ### 🧰 Tech Stack
 
-- **Languages**: JavaScript, TypeScript, Python  
-- **Frontend**: React, Next.js, Redux Toolkit, WebSockets, Tailwind, Shadcn UI  
-- **Backend (WIP)**: FastAPI, Node.js, Firebase, Docker  
-- **DevOps**: Docker, NGINX, Jenkins (basic), Rancher (basic)
-
----
-
-### 📬 Reach Out
-
-- 📧 Email: sid.naik26@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/siddheshnaik26/)  
-- 🌐 Portfolio: Coming soon (currently showcasing via projects)
-
----
-🧱 **Currently building real-world projects** while exploring full-time or freelance remote opportunities (international preferred).  
-🚀 Always open to collaborations or interesting frontend-heavy work.
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
 
 
