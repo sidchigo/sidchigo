@@ -2,10 +2,9 @@
 
 **Senior Software Engineer** - Real-time Systems & Frontend Architecture · 5.5+ years of experience
 
-I build fast, reliable, real-time web applications - from WebSocket-driven UIs to scalable backend integrations. Open to select new opportunities if the right one comes along.
+I build fast, reliable, real-time web applications — from WebSocket-driven UIs to scalable backend integrations. Open to select new opportunities if the right one comes along.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddheshnaik26/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sid.naik26@gmail.com)
+📫 [LinkedIn](https://www.linkedin.com/in/siddheshnaik26/) · [Email](mailto:sid.naik26@gmail.com)
 
 ---
 
@@ -31,19 +30,6 @@ I build fast, reliable, real-time web applications - from WebSocket-driven UIs t
 
 ### 🧰 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,redux,tailwind,fastapi,nodejs,firebase,docker,nginx,jenkins)
 
-
-
+---
